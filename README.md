@@ -17,6 +17,8 @@ https://www.compscilib.com/search/discrete-math?onboarding=true#discrete-probabi
 
 https://ocw.mit.edu/courses/6-041-probabilistic-systems-analysis-and-applied-probability-fall-2010/
 
+https://stat110.hsites.harvard.edu/
+
 
 **Videos referred**
 
